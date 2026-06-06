@@ -6,3 +6,4 @@ This is the Cloudflare Custom Error Rules style for my personal website. Feel fr
 You may notice the page appears abnormal during preview — this is normal, no need to worry. Please test the actual trigger page directly.
 您可能会在预览时候发现页面异常，这是正常的，无需担心。请直接测试真实触发页面。
 
+![Captcha-demo](https://github.com/hefan230/Cloudflare-CustomErrorRules/blob/b47c416c12109648783d9855132773d39c61bbf3/captcha-demo.jpg) 
